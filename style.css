@@ -1,0 +1,100 @@
+*{    margin: 0px;
+    font-family: 'inter';
+}
+#menu-superior{
+background-image: url(imagens/background1.jpg);
+background-size: cover;
+color: white;
+}
+#logo{
+    width: 175px;
+    height: 175px;
+    margin: 15px 50px 25px 30px;
+    align-items: start;
+}
+#titulo-menu-superior{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+#texto-menu-superior{
+    margin-left: 40px;
+    margin-top: 10px;
+    padding-bottom: 50px;
+}
+#menu-informacional{
+    background-color: #e7e7e7;
+    display: grid;
+    grid-auto-flow: column;
+}
+.texto-informacional{
+    margin-left: 100px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+  
+}
+#menu-projetos{
+    display: grid;
+    grid-auto-flow: column;
+}
+#sobre-projetos{
+    align-self: center;
+    margin-left: 100px;
+}
+#projeto{
+    margin: 50px 25px 50px 50px;
+}
+#titulo-projeto{ 
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-size: 27px;
+}
+#texto-projeto{
+    text-align: justify;
+    line-height: 27px;
+    font-size: 16.5px;
+}
+#formulario{
+    text-align: center;
+    background-color: #303030;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 40px;
+}
+input{
+    width: 300px;
+    height: 40px;
+    background-color: #EAECE5;
+    margin-top: 30px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+button{
+background-color: #C07212;
+width: 150px;
+height: 40px;
+color: #EAECE5;
+border: 0px;
+border-radius: 5px;
+margin-top: 30px;
+margin-bottom: 20px;
+font-weight: bolder;
+cursor: pointer;
+}
+button:hover{
+background-color: white;
+color:#C07212;
+transform: translateY(-7px);
+box-shadow: 0px 15px 20px #C07212;
+transition-duration: 0.5s;
+}
+
+#rodape{
+    color: white;
+    background-color: #303030;
+    text-align: center;
+    font-size: 12px;
+    font-family: 'inter';
+    padding: 20px;
+    font-weight: bold;
+}
