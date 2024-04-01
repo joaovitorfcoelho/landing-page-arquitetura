@@ -1,8 +1,10 @@
 ##**Desafio 1 - Resolução**
 
+
 ##**Descrição do Projeto**
 
 Projeto do Desafio n°1 proposto no curso de formação em tecnologia da DNC, o projeto baseia-se na criação de uma landing page de uma empresa de arquitetura.
+
 
 ##**Links**
 
@@ -10,11 +12,13 @@ Link do site disponibilizado: https://arqviva.netlify.app
 
 Link da planilha de registro de informação: https://docs.google.com/spreadsheets/d/1OszCDHpylYTdUVc4S7haMLylDegBeyjQTo48R5H4Emg/edit?usp=sharing
 
+
 ##**Tecnologias Utilizadas**
 
 -HTML
 
 -CSS
+
 
 ##**Layout e Funcionalidades**
 
